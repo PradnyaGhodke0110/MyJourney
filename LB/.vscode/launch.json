@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Program214",
+      "request": "launch",
+      "mainClass": "Program214",
+      "projectName": "LB_b10b5548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Program191",
+      "request": "launch",
+      "mainClass": "Program191",
+      "projectName": "LB_b10b5548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Program249",
+      "request": "launch",
+      "mainClass": "Program249",
+      "projectName": "LB_b10b5548"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Admin/Desktop/LB",
+      "program": "c:/Users/Admin/Desktop/LB/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
